@@ -1,10 +1,11 @@
-# Test Webpage for GitHub Pages
-test environment. If you can see this, the deployment is working.
 
-## 🚀 Deployment Status
+## Test page for GitHub Pages
+If you can see this, the deployment is working.
+
+### 🚀 Status
 - [x] Repo
 - [x] index.md
-- [ ] Theme
+- [x] Theme
 
 ```python
 def hello_world():
